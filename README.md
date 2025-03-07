@@ -5,7 +5,7 @@
 </h1>
 
 🔹 **Web developer** focused on **Frontend and Backend**.  
-🔹 Working with **React, Node.js, MongoDB, SQL**.  
+🔹 Working with **JS, React, Node.js, MongoDB**.  
 🔹 Passionate about reading books 📚, solving puzzles 🧩, and building pet projects.  
 🔹 Constantly learning and improving my skills.
 
