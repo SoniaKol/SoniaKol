@@ -40,14 +40,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoniaKol&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
----
-
 ### 📫 How to Reach Me
 
 📩 Email: **sonia.nosenko@gmail.com**  
