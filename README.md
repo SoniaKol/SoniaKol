@@ -1,11 +1,11 @@
 ### Hi there! 👋 I'm Sofiia
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7DF1E&size=24&center=true&vCenter=true&lines=Hi!+I'm+Sofiia;Full+Stack+Developer;JS+%26+React+%26+Node.js">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7DF1E&size=24&center=true&vCenter=true&lines=Hi!+I'm+Sofiia;Full+Stack+Developer;JS/TS+%26+React+%26+Node.js">
 </h1>
 
 🔹 **Web developer** focused on **Frontend and Backend**.  
-🔹 Working with **JS, React, Node.js, MongoDB**.  
+🔹 Working with **JS/TS, React, Node.js, MongoDB**.  
 🔹 Passionate about reading books 📚, solving puzzles 🧩, and building pet projects.  
 🔹 Constantly learning and improving my skills.
 
