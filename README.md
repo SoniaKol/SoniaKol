@@ -1,9 +1,5 @@
 ### Hi there! 👋 I'm Sofiia
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7DF1E&size=24&center=true&vCenter=true&lines=Hi!+I'm+Sofiia;Full+Stack+Developer;JS/TS+%26+React+%26+Node.js">
-</h1>
-
 🔹 **Web developer** focused on **Frontend and Backend**.  
 🔹 Working with **JS/TS, React, Node.js, MongoDB**.  
 🔹 Passionate about reading books 📚, solving puzzles 🧩, and building pet projects.  
@@ -33,17 +29,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
----
-
-### 📚 Currently Learning
-
-<p align="center">
-
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white">
-
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Loading..." width="150"/>
-</p>
 
 ---
 
